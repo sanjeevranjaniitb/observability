@@ -192,8 +192,8 @@ curl -X POST http://localhost:9090/-/reload
 
 ## Ports Summary
 
-| URL                          | Service              |
-|------------------------------|----------------------|
-| http://localhost:3000        | Grafana UI           |
-| http://localhost:9090        | Prometheus UI        |
+| URL                          | Service                   |
+|------------------------------|---------------------------|
+| http://localhost:3000        | Grafana UI                |
+| http://localhost:9090        | Prometheus UI             |
 | http://localhost:9090/targets| Prometheus scrape targets |
